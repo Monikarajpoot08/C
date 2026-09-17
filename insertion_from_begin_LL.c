@@ -32,7 +32,6 @@ void insert_at_begin()
     newnode->next = head;
     head = newnode;
 }
-
 // Function to display linked list
 void display()
 {
